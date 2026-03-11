@@ -1,0 +1,14 @@
+teste-validacao-senha-seu-nome-seu-sobrenome
+
+src
+ ├── main
+ │   └── java
+ │       └── br/com/validacaosenha
+ │           └── PasswordValidator.java
+ │
+ └── test
+     └── java
+         └── br/com/validacaosenha
+             └── PasswordValidatorTest.java
+
+pom.xml
